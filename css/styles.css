@@ -1,0 +1,74 @@
+#bob {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    background-color: rgb(255, 255, 104);
+    background-image: url(../images/bob.png);
+    float: left;
+    background-size: 300px;
+    background-position: 50% 20%;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 3px dashed rgb(215, 172, 0);
+}
+
+#patricio {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    background-color: pink;
+    background-image: url(../images/patricio.png);
+    float: left;
+    background-size: 250px;
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 3px dashed rgb(255, 66, 198);
+}
+
+#calamardo {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    background-color: rgb(28, 227, 187);
+    background-image: url(../images/calamardo.png);
+    float: left;
+    background-size: 150px;
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 3px dashed rgb(0, 115, 86);
+}
+
+#doncangrejo {
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    background-color: rgb(252, 108, 108);
+    background-image: url(../images/doncangrejo.png);
+    float: left;
+    background-size: 250px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 3px dashed rgb(138, 10, 42);
+}
+
+#esponja {
+    width: 300px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 250px;
+    
+}
+
+@font-face {
+    font-family: fontbobesponja;
+    src: url(../fonts/bobesponja.ttf);
+}
+
+h1 {
+    font-family: fontbobesponja;
+    font-size: 100px;
+    text-align: center;
+}
